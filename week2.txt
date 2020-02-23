@@ -1,0 +1,8 @@
+Data type
+int เก็บ 4 byte
+long long เก็บ 8 byte
+float เก็บ 4 byte
+double เก็บ 8 byte
+char เก็บ 1 byte 
+#include <math.h>   //เรียกใช้ฟังก์ชันทางคณิตศาสตร์
+#define ตัวแปร ตัวเลข  //ใช้ให้ค่ากับตัวแปรที่ห้ามเปลี่ยนแปลงค่า
