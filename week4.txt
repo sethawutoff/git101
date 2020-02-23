@@ -1,0 +1,3 @@
+การใช้ Function
+function(parameter); เป็นการเรียกใช้ function
+return ในฟังก์ชันคือการคืนค่าให้กับฟังก์ชัน
