@@ -1,0 +1,16 @@
+การรับ input ใช้ได้หลายคำสั่งคือ 
+1.gets(ตัวแปร) ใช้รับ string
+2.fgets(ตัวแปร, ขนาดของข้อมูล, stdin) ใช้รับค่าเป็น string
+3.getchar(ตัวแปร) ใช้รับตัวอักษรเพียงตัวเดียว
+แปลงค่าจาก fgets ที่รับมาเป็น string ให้เป็น data type อื่นๆ
+ต้อง #include <stdlib.h> ก่อน
+ใช้คำสั่ง int -> atoi, float -> atof, double -> atod, long -> atol, long long -> atoll
+ค่า false เริ่มต้นคือ Int = 0, float = 0.0, char = '\0'
+การใช้ if
+if (condition){}
+else if (condition){}
+else {}
+การใช้ while
+while (textexpression){}
+การใช้ for
+for (กำหนดตัวแปร ; condition ; การเพิ่มค่า) {}
